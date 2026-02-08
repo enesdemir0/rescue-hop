@@ -5,7 +5,7 @@ The game blends classic precision platforming with physics-based vehicle travers
 
 > **“Hop beyond the horizon, save the lost friend!”**
 
-**Developer:** Enes Demir  
+ 
 **Engine:** Unity (URP)  
 **Platform:** PC  
 **Genre:** 3D Action-Adventure / Platformer  
