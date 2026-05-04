@@ -1,5 +1,15 @@
 # 🎮 Rescue Hop
 
+## ▶️ Play the Game
+
+🎮 Download the latest playable build here:  
+👉 https://github.com/enesdemir0/Rescue-Hop/releases/latest
+
+1. Open the link above
+2. Download **Rescue_Hop_Oyun.zip**
+3. Extract the ZIP file
+4. Run **Rescue Hop.exe**
+
 **Rescue Hop** is a single-player, narrative-driven **3D platformer** developed with **Unity**.  
 The game blends classic precision platforming with physics-based vehicle traversal and tool-based mechanics.
 
